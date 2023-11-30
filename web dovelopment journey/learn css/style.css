@@ -1,0 +1,14 @@
+body{
+    background-color: greenyellow;
+}
+h1{
+    color: red;
+}
+p{
+    background-color: black;
+    color: aliceblue;
+}
+.blue{
+    background-color: black;
+    color: antiquewhite;
+}
